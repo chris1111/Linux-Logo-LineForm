@@ -10,7 +10,7 @@ Use them as you wish, and hope you like it.
 
 Download ➤ [Icon Set 512](https://github.com/chris1111/Linux-Logo-LineForm/releases/download/V1/512.zip)
 
-Download ➤ [Icon Set 256](https://github.com/chris1111/Linux-Logo-LineForm/releases/download/V1/512.zip)
+Download ➤ [Icon Set 256](https://github.com/chris1111/Linux-Logo-LineForm/releases/download/V1/256.zip)
 
 View ➤ [Site]()
  
